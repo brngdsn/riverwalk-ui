@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/riverwalk-ui/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/riverwalk-ui/static/js/main.0f7bf0c3.chunk.js",
+    "main.js.map": "/riverwalk-ui/static/js/main.0f7bf0c3.chunk.js.map",
+    "runtime-main.js": "/riverwalk-ui/static/js/runtime-main.0501bab3.js",
+    "runtime-main.js.map": "/riverwalk-ui/static/js/runtime-main.0501bab3.js.map",
+    "static/js/2.0a6da113.chunk.js": "/riverwalk-ui/static/js/2.0a6da113.chunk.js",
+    "static/js/2.0a6da113.chunk.js.map": "/riverwalk-ui/static/js/2.0a6da113.chunk.js.map",
+    "static/js/3.076ceb2e.chunk.js": "/riverwalk-ui/static/js/3.076ceb2e.chunk.js",
+    "static/js/3.076ceb2e.chunk.js.map": "/riverwalk-ui/static/js/3.076ceb2e.chunk.js.map",
+    "index.html": "/riverwalk-ui/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/riverwalk-ui/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.0a6da113.chunk.js.LICENSE.txt": "/riverwalk-ui/static/js/2.0a6da113.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/riverwalk-ui/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0501bab3.js",
+    "static/js/2.0a6da113.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.0f7bf0c3.chunk.js"
+  ]
+}
